@@ -27,3 +27,10 @@
    git clone https://github.com/ravikumar9519/X-Calculator.git
    cd X-Calculator
 
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+
+## Contact
+
+For any questions or feedback, please contact [Ravi Bharti](mailto:ravikumarbharti959493@gmail.com).
