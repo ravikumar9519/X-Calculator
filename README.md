@@ -1,9 +1,9 @@
+# [Deployment Link](https://x-calculators-ravi.netlify.app/)
+
 # X-Calculator
 
 ![X-Calculator](ss.png)
 
-
-# [Deployment Link](https://x-calculators-ravi.netlify.app/)
 
 ## Overview
 **X-Calculator** is a simple yet powerful calculator web application that allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The calculator is built using modern web technologies such as HTML, CSS, and JavaScript. It provides a user-friendly interface, making it easy for anyone to use.
